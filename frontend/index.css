@@ -21,3 +21,12 @@ border-color: blue; */
     #p2{
     color:blue;
 }
+
+ #nav{
+    text-align: center;
+    background-color: brown;
+    height: 50px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+ }
+
